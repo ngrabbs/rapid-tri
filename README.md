@@ -6,6 +6,9 @@ RAPID-TRI is a backyard-style project exploring the concept of using pulsars as 
 ## Project Description
 The goal of this project is to create a simple and educational mock representation of using pulsars as radio beacons for navigation within our galaxy. The project involves Raspberry Pi devices as pulsar emitters and a central device simulating a spacecraft. It aims to provide a basic understanding of pulsar-based navigation concepts.
 
+## Info
+[Pulsar-based Navigation](https://en.wikipedia.org/wiki/Pulsar-based_navigation)
+
 ## Identified Pulsars
 1. **Crab Pulsar:**
    - Suggested Frequency: 2.402 GHz
